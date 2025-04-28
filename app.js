@@ -20,6 +20,13 @@
  * => q (exit use q key)
  * 
  * 
+ * => root directory and create .ssh folder (mkdir .ssh)
+ * => cd .ssh
+ * => ssh-keygen -o -t rsa -C "example@gmail.com"
+ * => enter press (3 times).
+ * => github account ssh key added using id_rsa.pub file
+ * 
+ * 
  * => git clone http://www.exampleUrl.com
  * => git init (optional)
  * 
