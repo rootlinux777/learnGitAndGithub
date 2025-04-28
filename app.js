@@ -12,6 +12,13 @@
  * => git config --global user.name "username777"
  * => git config --global user.email "example@gmail.com"
  * 
+ * => git config --global --list
+ * => git config --global --unset user.name
+ * => git config --global --unset user.email
+ * 
+ * => git config --list
+ * => q (exit use q key)
+ * 
  * 
  * => git clone http://www.exampleUrl.com
  * => git init (optional)
