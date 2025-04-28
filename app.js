@@ -9,6 +9,9 @@
  * => github account create using own rules.
  * => create git repository (Remote/Cloud).
  * 
+ * => git config --global user.name "username777"
+ * => git config --global user.email "example@gmail.com"
+ * 
  * 
  * => git clone http://www.exampleUrl.com
  * => git init (optional)
