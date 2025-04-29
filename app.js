@@ -69,4 +69,27 @@
  * 
  * => git pull (download and active directory changes)
  * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * => Others
+ * 
+ * => git restore fileName.js
+ * => git rm --cached fileName.js
+ * => git diff
+ * 
+ * 
+ * => git checkout commit_id
+ * => git checkout main
+ * 
+ * => git reset --soft HEAD^
+ * => git reset HEAD^
+ * => git reset --hard HEAD^
+ * 
+ * 
+ * => touch .gitignore
+ * => gitignore file (.env, node_modules/, temp/, *.js, !app.js, card?.jsx)
+ * 
  */
