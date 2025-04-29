@@ -92,4 +92,11 @@
  * => touch .gitignore
  * => gitignore file (.env, node_modules/, temp/, *.js, !app.js, card?.jsx)
  * 
+ * 
+ * 
+ * => git config --global alias.s "status" (git status => git s)
+ * => git config --global --list
+ * => git config --global --unset alias.s
+ * 
+ * 
  */
